@@ -6,6 +6,7 @@ Copyright (c) 2005       Ero Carrera Ventura <ero / dkbza.org> (Python binding)
 Copyright (c) 2006       Matt Miller skape <mmiller / hick.org> (Ruby binding)
 Copyright (c) 2009-2010  Ange Albertini <angea / github.com>
 Copyright (c) 2015-2018  Joshua Pereyda <jtpereyda / github.com>
+2023 FreeBasic Example From Joseba Epalza <aka jepalza)
 
 
 1. Acknowledgments
